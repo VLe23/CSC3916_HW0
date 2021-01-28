@@ -1,0 +1,11 @@
+Content-Type: used to indicate the media type of the resource.
+Vary: Determines how to match request headers determining whether a cached phrase can be utilized.
+Content-Encoding: Used to compress the media-type.
+Date: HTTP header contains the date and time at which the message was originated.
+Server: Describes the software used by the origin server that handled the request.
+Cache-Control: Holds diretives in both requests and responses.
+X-XSS-Protection: Featured from Chrome, Internet Explorer, where pages are stopped from loading providing protection from breaches. 
+X-Frame-Options: Indicates whether or not a browser should be allowed to render a page in any object or frame.
+X-Content-Type-Options: Marker used by the server to indicate that the MIME types advertised in the Content-Type headers should not be changed and be followed.
+Alt-Svc: Used to advertise alternative services to reach the same resource.
+Transfer-Encoding: Specifies the form of encoding encouraging safe transfers to the user.
